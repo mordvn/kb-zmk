@@ -50,8 +50,8 @@
             bindings = <
 &trans                                &kp SLASH  &kp NUMBER_9  &kp NUMBER_8  &kp N7        &kp ASTERISK    &kp C_BRIGHTNESS_DEC  &kp C_BRIGHTNESS_INC  &kp C_MUTE  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &trans
 &trans                                &kp MINUS  &kp NUMBER_3  &kp NUMBER_2  &kp NUMBER_1  &kp PLUS        &kp LEFT              &kp DOWN              &kp UP      &kp RIGHT          &trans           &bt BT_CLR
-&kp C_AC_NEXT_KEYBOARD_LAYOUT_SELECT  &trans     &kp NUMBER_6  &kp N5        &kp NUMBER_4  &kp PERCENT     &trans                &trans                &trans      &trans             &bt BT_PRV       &bt BT_NXT
-                                                               &trans        &trans        &trans          &trans                &kp N0                &trans
+&kp C_AC_NEXT_KEYBOARD_LAYOUT_SELECT  &trans     &kp NUMBER_6  &kp N5        &kp NUMBER_4  &kp PERCENT     &kp NUMBER_0          &trans                &trans      &trans             &bt BT_PRV       &bt BT_NXT
+                                                               &trans        &trans        &trans          &trans                &trans                &trans
             >;
         };
 
